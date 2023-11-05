@@ -35,7 +35,7 @@ Intensive trainining for competitive entrance exams to french Grandes Écoles (f
 ## Industry experience
 
 `2019` **Research intern**, *Prophesee, Paris, France*<br>
-Deep learning algorithms for using event-based cameras in autonomous cars.
+Deep learning algorithms for event-based cameras in autonomous cars.
 
 `2018` **Software developer intern**, *Amadeus, Sofia-Antipolis, France*<br>
 Design and development of continuous integration tools.
