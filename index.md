@@ -88,6 +88,12 @@ F. Benzing, S. Schug, R. Meier, J. von Oswald, Y. Akram, **N. Zucchet**, L. Ait
 `Autumn 2021` Teaching assistant for master’s course [Randomized algorithms and probabilistic methods](https://www.google.com/url?q=https%3A%2F%2Fcadmo.ethz.ch%2Feducation%2Flectures%2FHS21%2FRandAlg%2Findex.html&sa=D&sntz=1&usg=AOvVaw3htSHy9pCNap_11g9f3LBY).
 
 
+## Community service
+
+`2023` Reviewer for NeurIPS.
+
+`2023` Reviewer for ICLR.
+
 ## Awards
 
 `2022` NeurIPS 2022 Scholar Award
