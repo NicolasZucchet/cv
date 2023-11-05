@@ -49,7 +49,7 @@ Design and development of continuous integration tools.
 J. von Oswald\*, E. Niklasson\*, M. Schlegel\*, S. Kobayashi, **N. Zucchet**, N. Scherrer, N. Miller, M. Sandler, B. Agüera y Arcas, M. Vladymyrov, R. Pascanu and J. Sacramento
 
 `[1]` [Gated RNNs discover attention](https://arxiv.org/abs/2309.01775) <br>
-**N. Zucchet**\*, S. Kobayashi\*, Y. Akram\*, J. von Oswald, M. Larcher, A. Steger$^\dagger$, J. Sacramento$^\dagger$
+**N. Zucchet**\*, S. Kobayashi\*, Y. Akram\*, J. von Oswald, M. Larcher, A. Steger$$^\dagger$$, J. Sacramento$$^\dagger$$
 
 ### Conference and journal papers
 
@@ -75,7 +75,7 @@ J. von Oswald\*, D. Zhao\*, S. Kobayashi, S. Schug, M. Caccia, **N. Zucchet** 
 
 ### Workshop papers
 `[1]` [Random initialisations performing above chance and how to find them](https://arxiv.org/abs/2209.07509) <br>
-F. Benzing, S. Schug, R. Meier, J. von Oswald, Y. Akram, **N. Zucchet**, L. Aitchison\*, A. Steger\*<br>
+F. Benzing, S. Schug, R. Meier, J. von Oswald, Y. Akram, **N. Zucchet**, L. Aitchison$$^\dagger$$, A. Steger$$^\dagger$$<br>
 *OPT2022: 14th Annual Workshop on Optimization for Machine Learning (NeurIPS), 2022*
 
 
